@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Assignment for by lovly nmotuuu(baby)
 // mongoose connect 
-// 
+// postman request testing
 
 
 // register user 
